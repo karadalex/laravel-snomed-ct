@@ -1,1 +1,2 @@
-# laravel-snomed-ct
+Laravel SNOMED CT package
+==========================
